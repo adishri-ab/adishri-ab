@@ -1,23 +1,19 @@
 # 👋 Hi, I'm Aadishri Abrol
+![Cool Animation](https://github.com/adishri-ab/adishri-ab/blob/main/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d72696768747370656.gif)
 
-- 💻 B.Tech CSE (AIML) Student
-- 🚀 Passionate about AI, Web Development & Problem Solving
-- 🎯 Building projects that blend logic with creativity
 
-🌟 About Me
+- ##  💻 B.Tech CSE (AIML) Student
+- ##  🚀 Passionate about AI, Web Development & Problem Solving
+- ##  🎯 Building projects that blend logic with creativity
 
-I’m a second-year Computer Science student specializing in Artificial Intelligence & Machine Learning.
-I love building real-world projects that combine technology, design, and intelligence.
+## 🌟 About Me
+- ###   I’m a third-year Computer Science student specializing in Artificial Intelligence & Machine Learning.
+- ### I love building real-world projects that combine technology, design, and intelligence.
+- ### 🌱 Currently learning: Advanced DSA & Machine Learning
+- ### 🧠 Exploring: NLP, Computer Vision, and Intelligent Systems
+- ### 💡 Interested in: AI-driven web applications
 
-🌱 Currently learning: Advanced DSA & Machine Learning
-
-🧠 Exploring: NLP, Computer Vision, and Intelligent Systems
-
-💡 Interested in: AI-driven web applications
-
-📍 Based in India
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 💻 Programming Languages
 
 C
